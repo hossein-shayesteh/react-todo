@@ -1,0 +1,23 @@
+.task-list {
+  list-style: none;
+  font-size: 1.5rem;
+  line-height: 2;
+  li {
+    position: relative;
+    margin: 1rem 0;
+    border-bottom: 1px solid rgb(50, 50, 50);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  button {
+    padding: 0.5rem;
+    width: 6rem;
+    font-size: 1rem;
+    transition: all 0.25s;
+    &:hover {
+      border-color: rgb(155, 33, 33);
+      color: rgb(155, 33, 33);
+    }
+  }
+}
