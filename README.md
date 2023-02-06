@@ -1,5 +1,5 @@
 # react todo list
-This project was bootstrapped with [Vite](https://vitejs.dev/) using an app with [Typescript](https://www.typescriptlang.org/) and [React](https://reactjs.org/).
+This project was bootstrapped with [Vite](https://vitejs.dev/) and [Typescript](https://www.typescriptlang.org/) and [React](https://reactjs.org/).
 
 ## Available Scripts
 
